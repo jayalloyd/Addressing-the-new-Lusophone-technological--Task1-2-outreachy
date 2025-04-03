@@ -7,7 +7,7 @@ ERROR,http://sportsillustrated.cnn.com/soccer/wusa/2001/championship/news/2001/0
 200,http://sportv.globo.com/site/noticia/2011/11/em-casa-sao-jose-vence-colo-colo-e-e-campeao-da-libertadores-feminina.html
 200,http://sportv.globo.com/site/programas/rio-2016/noticia/2016/08/apos-vitoria-formiga-supera-cafu-em-jogos-pela-selecao-nunca-imaginei.html
 403,http://www.bayareasportsdrive.com/soccer/sissi.htm
-ERROR,http://www.bolabrasilmulher.com.br/conheca-a-chu-santos-atacante-convocada-pela-tecnica-emily-lima/
+200,http://www.bolabrasilmulher.com.br/conheca-a-chu-santos-atacante-convocada-pela-tecnica-emily-lima/
 404,http://www.ecuafutbol.org/copa_america/team.aspx?ID=BRA
 403,http://www.espn.com.br/noticia/556235_ferroviaria-vence-colo-colo-por-3-a-1-e-conquista-libertadores-feminina
 403,http://www.espn.com.br/noticia/667127_aos-38-anos-volante-formiga-acerta-com-o-paris-saint-germain
@@ -24,7 +24,7 @@ ERROR,http://www.periodicos.letras.ufmg.br/index.php/fulia/issue/view/677/showTo
 ERROR,https://dados.museudofutebol.org.br/#/tipo:personalidades/614464
 200,https://diariodoverdao.com.br/palmeirenses-fazem-campanha-por-volta-de-bia-zaneratto-que-esta-sem-clube/
 403,https://dibradoras.blogosfera.uol.com.br/2019/08/22/da-roca-para-a-selecao-quem-e-maravilha-1a-preparadora-de-goleiras-da-cbf/
-406,https://dibradoras.com.br/2020/12/05/time-de-tradicao-no-feminino-avai-kindermann-tem-craques-formadas-em-casa/
+ERROR,https://dibradoras.com.br/2020/12/05/time-de-tradicao-no-feminino-avai-kindermann-tem-craques-formadas-em-casa/
 200,https://falauniversidades.com.br/entrevista-rosana-augusto-ex-selecao-homenageada-copa/
 200,https://gauchazh.clicrbs.com.br/esportes/inter/noticia/2019/01/de-vale-real-ao-beira-rio-a-historia-de-pedro-lucas-e-malu-os-irmaos-que-chegaram-aos-times-profissionais-do-inter-cjrcg4cm000ni01q9avcja7nm.html
 200,https://ge.globo.com/blogs/dona-do-campinho/post/2017/10/21/lele-brilha-nos-penaltis-e-corinthiansaudax-conquista-a-libertadores-feminina.ghtml
@@ -58,17 +58,17 @@ ERROR,https://dados.museudofutebol.org.br/#/tipo:personalidades/614464
 200,https://nossopalestra.com.br/palmeiras/noticias/trofeu-nosso-palestra-2021-confira-os-vencedores-da-premiacao/
 200,https://oglobo.globo.com/esportes/trabalho-de-formiga-contra-preconceitos-no-futebol-17644520
 200,https://ojs.ufgd.edu.br/index.php/historiaemreflexao/article/view/8608
-ERROR,https://olimpiadatododia.com.br/futebol/182421-rosana-retorna-ao-futebol-e-acerta-com-a-ferroviaria/
+403,https://olimpiadatododia.com.br/futebol/182421-rosana-retorna-ao-futebol-e-acerta-com-a-ferroviaria/
 200,https://onefootball.com/pt-br/noticias/ex-palmeiras-goleira-taty-amaro-e-anunciada-pelo-cruzeiro-34483924
 200,https://sportbuzz.uol.com.br/noticias/futebol/conheca-sissi-o-maior-nome-do-futebol-feminino-brasileiro-antes-de-marta.phtml
-ERROR,https://timetravel.mementoweb.org/list/20161204/http://www.sports-reference.com/olympics/countries/BRA/summer/1996/FTB/
+200,https://timetravel.mementoweb.org/list/20161204/http://www.sports-reference.com/olympics/countries/BRA/summer/1996/FTB/
 403,https://us.women.soccerway.com/players/sisleide-lima-do-amor/83298/
 ERROR,https://vincisports.com.br/atleta/130/maria-luiza-schwaizer
 200,https://web.archive.org/web/20120801072900/http://timebrasil.cob.org.br/atletas/miraildes-maciel-mota
 200,https://web.archive.org/web/20131213023519/http://www.americadenatal.com.br/futebol/formiga-se-apresenta-e-diz-estar-pronta-para-mais-um-desafio-1289/
 200,https://web.archive.org/web/20160304042042/http://www.sintrefutrj.com.br/historiafutfemininoandrea.pdf
 200,https://web.archive.org/web/20160718103900/http://espnw.espn.uol.com.br/veja-por-que-formiga-entrou-hoje-para-historia-da-olimpiada/
-ERROR,https://web.archive.org/web/20190512053847/https://www.fifa.com/womensworldcup/news/wwc99-hamm-sissi-sun-among-players-selected-mastercard-all-star-team-70977
+200,https://web.archive.org/web/20190512053847/https://www.fifa.com/womensworldcup/news/wwc99-hamm-sissi-sun-among-players-selected-mastercard-all-star-team-70977
 404,https://www.90min.com/pt-BR/posts/julia-bianchi-a-jogadora-do-palmeiras-que-representa-o-rejuvenescido-futebol-feminino
 404,https://www.acritica.com/channels/esportes/news/formiga-fala-sobre-despedida-da-selecao-e-futuro-no-futebol
 200,https://www.alamy.com/stock-photo-soccer-fifa-world-player-1999-awards-gala-brussels-109012068.html
@@ -110,7 +110,7 @@ ERROR,https://www.cbf.com.br/selecao-brasileira/noticias/selecao-feminina/sub-17
 403,https://www.gazetaesportiva.com/times/paris-saint-germain/formiga-renova-contrato-com-o-paris-saint-germain-ate-2020/
 403,https://www.gazetaesportiva.com/times/santos/meia-malu-vai-representar-o-santos-no-sul-americano-sub-17/
 200,https://www.grenadafa.com/people/calisha-callwood/256308/
-ERROR,https://www.iffhs.com/posts/1547
+200,https://www.iffhs.com/posts/1547
 200,https://www.mercurynews.com/2009/06/11/gold-pride-assistant-coach-sissi-will-play/
 404,https://www.morenanews.com/2020/10/11/bia-zaneratto-marca-em-goleada-e-ajuda-wuhan-jiangda-a-conquistar-titulo-chines-assista/
 200,https://www.msn.com/pt-br
